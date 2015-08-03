@@ -1,0 +1,4 @@
+git clone - copies repository to local computer
+-b creates new branch
+checkout allows going in and out of branches
+git status - checks status of files

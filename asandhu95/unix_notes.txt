@@ -1,0 +1,5 @@
+ls shows folders
+cd allows you to go back to home or navigate to a different folder
+.. move up a folder
+
+

@@ -1,0 +1,4 @@
+-b creates new branch
+checkout allows going in and out of branches
+.. move up a folder
+git status - checks status of files
